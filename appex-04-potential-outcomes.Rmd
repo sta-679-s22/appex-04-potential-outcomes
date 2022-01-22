@@ -1,0 +1,18 @@
+---
+title: "Appex 04 - Potential Outcomes"
+author: "Lucy D'Agostino McGowan"
+output: html_document
+---
+
+
+```{r, message = FALSE, warning = FALSE}
+library(tidyverse)
+```
+
+## Exercise 1
+
+## Exercise 2
+
+## Exercise 3
+
+## Exercise 4
